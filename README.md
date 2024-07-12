@@ -4,3 +4,13 @@ Youtube為當今最大的影音平台，其中發燒影片可以反映時下廣�
 ## Dataset
 截取2022年至2023年美國地區每天更新的發燒影片，共計145196部影片  
 [Kaggle-Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new?select=USvideos.csv)
+data2022_2023.csv為前處理後的dataset  
+
+## Execution
+先進行pip版本升級並安裝Jupyter Notebook
+  pip3 install --upgrade pip
+
+  pip3 install notebook
+
+再打開cmd 並輸入"Jupyter Notebook"
+  Jupyter Notebook
