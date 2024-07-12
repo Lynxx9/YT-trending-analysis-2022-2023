@@ -8,7 +8,7 @@ Youtube為當今最大的影音平台，其中發燒影片可以反映時下廣�
 註: 附檔"data2022_2023.csv"為前處理後的dataset  
 
 ## Extension  
-[vidIQ](https://vidiq.com/extension/)  
+[vidIQ-Install Chrome Extension](https://vidiq.com/extension/)  
 安裝vidIQ擴充功能，即可得知"影片觀看次數成長曲線"
 
 ## Execution
