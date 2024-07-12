@@ -7,10 +7,10 @@ Youtube為當今最大的影音平台，其中發燒影片可以反映時下廣�
 data2022_2023.csv為前處理後的dataset  
 
 ## Execution
-先進行pip版本升級並安裝Jupyter Notebook
+先進行pip版本升級並安裝Jupyter Notebook  
   ```pip3 install --upgrade pip```
-
   ```pip3 install notebook```
+
 
 再打開cmd 並輸入"jupyter notebook"  
   ```jupyter notebook```
