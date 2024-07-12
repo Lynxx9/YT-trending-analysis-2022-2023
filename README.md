@@ -8,9 +8,9 @@ data2022_2023.csv為前處理後的dataset
 
 ## Execution
 先進行pip版本升級並安裝Jupyter Notebook
-  pip3 install --upgrade pip
+  ```pip3 install --upgrade pip```
 
-  pip3 install notebook
+  ```pip3 install notebook```
 
-再打開cmd 並輸入"Jupyter Notebook"
-  Jupyter Notebook
+再打開cmd 並輸入"jupyter notebook"  
+  ```jupyter notebook```
