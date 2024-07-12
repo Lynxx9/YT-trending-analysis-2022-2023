@@ -22,4 +22,6 @@ Youtube為當今最大的影音平台，其中發燒影片可以反映時下廣�
 
 
 再打開cmd 並輸入"jupyter notebook"即可執行  
-  ```jupyter notebook```
+  ```bash
+  jupyter notebook
+  ```
